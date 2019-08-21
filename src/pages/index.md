@@ -6,7 +6,7 @@ sections:
         url: docs/index.html
     component: HeroBlock
     content: Welcome to the new Spokepost.com
-    image: images/5.jpg
+    image: ''
     section_id: hero
     title: Spokepost.com
     type: heroblock
